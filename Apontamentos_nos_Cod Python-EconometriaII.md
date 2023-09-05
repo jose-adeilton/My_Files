@@ -1,4 +1,4 @@
-Apontamentos dos Códigos Python usados nas aulas 1 a 4 de Econometria II
+**Apontamentos dos Códigos Python usados nas aulas 1 a 4 de Econometria II**
 
 O objetivo desses apontamentos é um esforço de tentar entender
 estritamente o que é a linguagem Python como funciona seus principais
@@ -8,9 +8,9 @@ disciplina Econometria II, porém sem focar nas teorias econométricas e
 na parte dos resultados, visto que essa parte se faz necessariamente
 presente na lista de exercícios da disciplina.
 
-1\. Pyton e suas IDEs
+**1\. Pyton e suas IDEs**
 
-** Python** é uma *linguagem de programação* de alto nível,
+**Python** é uma *linguagem de programação* de alto nível,
 *interpretada* e de *propósito geral*. Uma *linguagem de programação* é
 uma forma padronizada de comunicação entre humanos e máquinas,
 permitindo que os desenvolvedores expressem algoritmos e instruções que
@@ -29,7 +29,7 @@ linguagens de alto nível, como Python, Java, R, C++, entre outras, que
 fornecem abstrações mais poderosas e facilitam o desenvolvimento de
 software complexo.
 
-De *propósito geral,* pois é amplamente usada em uma variedade de
+De *propósito geral*, pois é amplamente usada em uma variedade de
 domínios, desde desenvolvimento web e científico até automação de
 tarefas e inteligência artificial. Python se destaca por sua sintaxe
 clara e legível, além de possuir uma vasta comunidade de desenvolvedores
@@ -45,7 +45,7 @@ diferencial. Jupyter Notebook é organizado em células, onde cada célula
 pode conter código, texto formatado, equações matemáticas,
 visualizações, entre outros.
 
-**VS** **Code** (Visual Studio Code) é um editor de código-fonte
+**VS** **Code** (*Visual Studio Code*) é um editor de código-fonte
 desenvolvido pela Microsoft. Ele é altamente popular entre
 desenvolvedores de software devido à sua interface intuitiva, recursos
 avançados de edição, depuração integrada, suporte a extensões e
@@ -53,7 +53,7 @@ integração com controle de versão. O VS Code é uma ferramenta poderosa
 para escrever, depurar e executar código Python, além de suportar várias
 outras linguagens de programação.
 
-1.1Unindo os três
+**1.1Unindo os três**
 
 Assim com não é necessário um capacete e uma cotoveleira para conseguir
 andar sobre um skate, é também possível usar o Python apenas com o
@@ -69,7 +69,7 @@ com recursos avançados de edição e depuração, e extensões, incluindo o
 próprio Jupyter Notebook, assim ambos os ambientes são amplamente
 utilizados por desenvolvedores Python.
 
-1.2 Código de progamação.
+**1.2 Código de progamação.**
 
 Um código em Python é uma sequência de instruções escritas na linguagem
 de programação Python. Essa sequência de instruções, vira um roteiro,
@@ -119,7 +119,7 @@ terminal não há a necessidade do sinal de escrever o sinal de exclamação
 ficando apenas **pip install nome_do_pacote** e para executar a
 instalação apenas pressione Enter.
 
-2\. Os Códigos
+**2\. Os Códigos**
 
 Os códigos são os mesmos usados nas aulas, apenas estão com uma
 brevíssima explicação de cada pacote/função por meio do *dicionário do
@@ -135,7 +135,7 @@ construção do programa, em vez de rodar o texto de uma só vez, para isso
 basta posicionar o cursor na primeira letra da primeira linha e ir
 apertando o botão F10 no* *teclado*.)
 
-2.1 Regressão Linear
+**2.1 Regressão Linear**
 
 Este é o roteiro (script) 01 da aula 01, aonde é possível se criar uma
 regressão linear, onde se faz necessária primeiramente a importação dos
